@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WooCommerce Custom Shipping Methods
-Plugin URI: https://es.linkedin.com/in/borjanavarrowd
+Plugin URI: https://es.linkedin.com/in/borjanavarrowd/en
 Description: WooCommerce custom methods
 Version: 1.0.0
 Author: Borja Navarro
