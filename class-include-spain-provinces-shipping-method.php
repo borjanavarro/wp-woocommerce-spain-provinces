@@ -11,7 +11,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @version		1.0.0
  * @package		WooCommerce-Custom-Methods
  * @author 		Borja Navarro
- * @url 			https://es.linkedin.com/in/borjanavarrowd
+ * @url 		https://es.linkedin.com/in/borjanavarrowd/en
  */
 class WC_Include_Spain_Provinces_Shipping_Method extends WC_Shipping_Method {
 
